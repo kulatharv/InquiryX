@@ -35,13 +35,21 @@ InquiryX-Dashboard/
 
 Installation
 1️⃣ Clone the repo:
+      
    git clone https://github.com/yourusername/InquiryX-Dashboard.git
+
 2️⃣ Import the database:
+
 - Open phpMyAdmin
+
 - Create database `inquiry_dashboard`
+
 - Import `inquiry_dashboard.sql`
+
 3️⃣ Configure DB credentials in `includes/db.php`:
+
 $conn = new mysqli('localhost', 'root', '', 'inquiry_dashboard');
+
 4️⃣ Run in browser:
    http://localhost/InquiryX-Dashboard/dashboard.php
 
