@@ -3,11 +3,11 @@
 Overview
 InquiryX Dashboard is a Business Inquiry Management Dashboard built with PHP, MySQL, Bootstrap 5, and Chart.js. It helps track inquiries, follow-ups, and customer details in an easy-to-use web interface.
 Features
-# Total, Ongoing, Closed & Today’s Inquiries
-# Inquiry Status Distribution (Pie Chart)
-# Monthly Inquiry Trends (Bar Chart)
-# Active Inquiry Table with Customer Details
-# Responsive Full-Screen Dashboard
+- Total, Ongoing, Closed & Today’s Inquiries
+- Inquiry Status Distribution (Pie Chart)
+- Monthly Inquiry Trends (Bar Chart)
+- Active Inquiry Table with Customer Details
+- Responsive Full-Screen Dashboard
 Tech Stack
 • PHP 8+
 • MySQL
