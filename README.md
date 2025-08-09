@@ -14,15 +14,25 @@ Tech Stack
 • Bootstrap 5
 • Chart.js
 Project Structure
+
 InquiryX-Dashboard/
+
 ├── includes/
+
 │   └── db.php          # Database connection
+
 ├── dashboard.php       # Main dashboard
+
 ├── add_customer.php    # Add new customers
+
 ├── add_inquiry.php     # Add inquiries
+
 ├── followup.php        # Manage followups
+
 ├── view_inquiries.php  # View all inquiries
+
 └── inquiry_dashboard.sql  # Database schema
+
 Installation
 1️⃣ Clone the repo:
    git clone https://github.com/yourusername/InquiryX-Dashboard.git
